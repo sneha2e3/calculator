@@ -43,7 +43,7 @@ This project allows users to perform simple arithmetic operations with an easy-t
 - Prevents division by zero with an error message  
 
 ---
-git clone https://github.com//simple-calculator.git
+git clone https:https://github.com/sneha2e3/simple-calculator.git
 
 ## ▶️ How to Run
 
